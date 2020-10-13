@@ -6,7 +6,7 @@
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
 - 🚀 I’m currently working at [Rocketseat](https://rocketseat.com.br/)
-- 💻 Node, ReactJS, React Native, Typescript
+- 💻 Javascript, ReactJS, C#, .NET Core
 - ✨ Learning is continuous and there will always be a next level
 
 <br />
