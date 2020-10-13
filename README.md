@@ -5,8 +5,8 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
-- 🚀 I’m currently working at [Rocketseat](https://rocketseat.com.br/)
-- 💻 Javascript, ReactJS, C#, .NET Core
+- 🚀 I’m currently looking for a job
+- 💻 Javascript, ReactJS, C#, DotNETCore
 - ✨ Learning is continuous and there will always be a next level
 
 <br />
