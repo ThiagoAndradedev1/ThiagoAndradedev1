@@ -17,15 +17,13 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://user-images.githubusercontent.com/63686057/95923324-a385c400-0d8b-11eb-886a-21d5d2c4e7a7.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Firebase" width="26px" src="https://user-images.githubusercontent.com/63686057/95923786-a3d28f00-0d8c-11eb-8265-93e78a88cf62.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/63686057/95923516-08d9b500-0d8c-11eb-86de-ed21742429ad.png" />
+<img align="left" alt=".NETCore" width="26px" src="https://user-images.githubusercontent.com/63686057/95923572-29a20a80-0d8c-11eb-905e-05e77a658013.png" />
+<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/63686057/95923668-62da7a80-0d8c-11eb-92b8-fc4dac2b4e80.jpg" />
+<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/63686057/95923731-830a3980-0d8c-11eb-89eb-40cefbdecc3e.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
