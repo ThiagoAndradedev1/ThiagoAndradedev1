@@ -3,7 +3,7 @@
 
 <br/>
 
-### Hey! Welcome to my profile! How is it going? 👋🥰
+### Hey! Welcome to my profile! How is it going? 👋
 
 - 🚀 I’m currently looking for a job
 - 💻 Javascript, ReactJS, C#, DotNETCore
