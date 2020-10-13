@@ -23,7 +23,7 @@
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/63686057/95923913-e300e000-0d8c-11eb-9ea7-140e9d75bb13.png" />
 <img align="left" alt=".NETCore" width="26px" src="https://user-images.githubusercontent.com/63686057/95923572-29a20a80-0d8c-11eb-905e-05e77a658013.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/63686057/95924207-88b44f00-0d8d-11eb-9461-a260ad73a11d.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
