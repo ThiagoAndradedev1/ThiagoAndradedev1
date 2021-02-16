@@ -6,7 +6,7 @@
 ### Hey! Welcome to my profile! How is it going? 👋
 
 - 🚀 I’m currently looking for a job
-- 💻 Javascript, ReactJS, C#, Node.Js e .NETCore
+- 💻 Javascript, ReactJS, Flutter, C#, Node.Js e .NETCore
 - ✨ Learning is continuous and there will always be a next level
 
 <br />
