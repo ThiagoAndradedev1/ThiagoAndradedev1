@@ -5,7 +5,7 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋
 
-- 🚀 I’m currently looking for a job
+- 🚀 I’m currently working at GetInfo.
 - 💻 Javascript, ReactJS, Flutter, C#, Node.Js e .NETCore
 - ✨ Learning is continuous and there will always be a next level
 
